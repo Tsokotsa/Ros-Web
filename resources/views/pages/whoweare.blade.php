@@ -24,7 +24,7 @@
 		<div class="col-lg-8 order-lg-2 mt-0 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="1200">
 			<div id="who-we-are" class="row">
 				<div class="col">									
-					<h2 class="text-color-dark font-weight-bold text-7 line-height-1 mb-4">Who We Are</h2>
+					<h2 class="text-color-dark font-weight-bold text-7 line-height-1 mb-4">Why choose us</h2>
 					<img src="img/demos/construction/generic/generic-8-wide.jpg" class="img-fluid mb-4" alt="Engineer Man" />
 					<p class="font-weight-medium text-4">Founded in 2001 by John Doe, gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, <span class="highlight highlight-primary highlight-bg-opacity highlight-animated" data-appear-animation="highlight-animated-start" data-appear-animation-delay="2000" data-plugin-options="{'flagClassOnly': true}">nisi elit consequat ipsum</span>, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. </p>
 					<p class="font-weight-light text-3-5 mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ultricies nunc, eu interdum enim convallis pretium. Quisque eu neque augue. Aliquam egestas nunc at efficitur faucibus. Praesent mauris eros, tincidunt id enim sodales, rhoncus malesuada ligula. </p>
@@ -37,14 +37,14 @@
 						</div>
 						<div class="col-md-auto px-xl-5 mx-md-5">
 							<div class="counter">
-								<strong class="text-color-primary text-13" data-to="240" data-append="+" data-plugin-options="{'accY': -200}">0</strong>
+								<strong class="text-color-primary text-13" data-to="200" data-append="+" data-plugin-options="{'accY': -200}">0</strong>
 								<span class="text-color-primary font-weight-bold text-4">Satisfied Clients</span>
 							</div>
 						</div>
 						<div class="col-md-auto">
 							<div class="counter">
-								<strong class="text-color-primary text-13" data-to="2000" data-append="+" data-plugin-options="{'accY': -200}">0</strong>
-								<span class="text-color-primary font-weight-bold text-4">Successfull Cases</span>
+								<strong class="text-color-primary text-13" data-to="1000" data-append="+" data-plugin-options="{'accY': -200}">0</strong>
+								<span class="text-color-primary font-weight-bold text-4">Successfull Projects</span>
 							</div>
 						</div>
 					</div>
@@ -81,24 +81,25 @@
 					<div class="tabs tabs-bottom tabs-simple pb-2 mb-5">
 						<ul class="nav nav-tabs justify-content-start">
 							<li class="nav-item mb-3">
-								<a class="nav-link font-weight-bold text-4 border-width-2 pb-3-5 px-1 active" href="#tabsMissionVision1" data-bs-toggle="tab">Manifesto</a>
+								<a class="nav-link font-weight-bold text-4 border-width-2 pb-3-5 px-1 active" href="#tabsMissionVision1" data-bs-toggle="tab">Mission</a>
 							</li>
 							<li class="nav-item mb-3 mx-4">
 								<a class="nav-link font-weight-bold text-4 border-width-2 pb-3-5 px-1" href="#tabsMissionVision2" data-bs-toggle="tab">Vision</a>
 							</li>
 							<li class="nav-item mb-3">
-								<a class="nav-link font-weight-bold text-4 border-width-2 pb-3-5 px-1" href="#tabsMissionVision3" data-bs-toggle="tab">Mission</a>
+								<a class="nav-link font-weight-bold text-4 border-width-2 pb-3-5 px-1" href="#tabsMissionVision3" data-bs-toggle="tab">Values</a>
 							</li>
 						</ul>
 						<div class="tab-content">
 							<div class="tab-pane active" id="tabsMissionVision1">
-								<p class="text-3-5 font-weight-light mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ultricies nunc, eu interdum enim convallis pretium. Quisque eu neque augue. Aliquam egestas nunc at efficitur faucibus. Praesent mauris eros, tincidunt id enim sodales, rhoncus malesuada ligula. <span class="highlight highlight-primary highlight-bg-opacity highlight-animated" data-appear-animation="highlight-animated-start" data-appear-animation-delay="1200" data-plugin-options="{'flagClassOnly': true}">Vivamus quis purus</span> nec sapien pellentesque imperdiet. Nullam porttitor augue mi, sit amet luctus est tincidunt sed ex, nec vehicula elit. Nullam porttitor augue mi, sit amet luctus est tincidunt sed.  </p>
+								<p class="text-3-5 font-weight-light mb-0">At ROS, our mission is to provide safe, reliable, and innovative scaffolding solutions that empower our customers to build with confidence. We are dedicated to enhancing worksite safety, efficiency, and productivity through our expertise and high-quality products.  </p>
 							</div>
 							<div class="tab-pane" id="tabsMissionVision2">
-								<p class="text-3-5 font-weight-light mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ultricies nunc, eu interdum enim convallis pretium. Quisque eu neque augue. Aliquam egestas nunc at efficitur faucibus. Praesent mauris eros, tincidunt id enim sodales, rhoncus malesuada ligula. Sit amet luctus est tincidunt sed ex, nec vehicula elit. Nullam porttitor augue mi, sit amet luctus est tincidunt sed. Donec tempus bibendum ex, nec vehicula elit. </p>
+								<p class="text-3-5 font-weight-light mb-0">Our vision is to be the leading scaffolding provider, known for our exceptional service, technical expertise, and commitment to safety excellence. We aim to build long-lasting partnerships with our clients and contribute to the success of their projects. </p>
 							</div>
 							<div class="tab-pane" id="tabsMissionVision3">
-								<p class="text-3-5 font-weight-light mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ultricies nunc, eu interdum enim convallis pretium. Quisque eu neque augue. Aliquam egestas nunc at efficitur faucibus. Praesent mauris eros, tincidunt id enim sodales, rhoncus malesuada ligula. Nullam porttitor augue mi, sit amet luctus est tincidunt sed ex, nec vehicula elit. Nullam porttitor augue mi, sit amet luctus est tincidunt sed. Donec tempus bibendum ex, nec vehicula elit. </p>
+								<p class="text-3-5 font-weight-light mb-0">Safety First: We prioritize safety above all else, ensuring that every scaffolding solution we provide meets or exceeds industry standards and regulations. </p>
+								<p class="text-3-5 font-weight-light mb-0">Quality: We maintain the highest standards of quality in our products, services, and customer interactions, earning the trust and confidence of our clients. </p>
 							</div>
 						</div>
 					</div>

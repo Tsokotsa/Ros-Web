@@ -79,7 +79,7 @@
             </svg>
         </div>
         <div class="col-lg-6">
-            <p class="font-weight-medium text-3-5 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="3200">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur felis <span class="highlight highlight-primary highlight-bg-opacity highlight-animated" data-appear-animation="highlight-animated-start" data-appear-animation-delay="4000" data-plugin-options="{'flagClassOnly': true}">ultrices non hendrerit</span> vehicula leo, vel efficitur felis ultrices non.</p>
+            <p class="font-weight-medium text-3-5 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="3200">We prioritize our customers' needs and preferences, offering flexible solutions, responsive service, and timely support to exceed expectations,<span class="highlight highlight-primary highlight-bg-opacity highlight-animated" data-appear-animation="highlight-animated-start" data-appear-animation-delay="4000" data-plugin-options="{'flagClassOnly': true}">we are committed to continuous improvement,</span>innovation, and excellence in everything we do, striving to deliver value and exceed customer satisfaction.</p>
             <a href="{{ route('whoweare')}}" class="custom-view-more d-inline-flex font-weight-medium text-color-primary text-decoration-none appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="3400">
                 View More
                 <img width="27" height="27" src="assets/media/construction/icons/arrow-right.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary ms-2'}" />
@@ -93,16 +93,16 @@
         <div class="row mb-5-5">
             <div class="col">
                 <h2 class="text-color-dark font-weight-bold text-7 line-height-1 mb-3-5 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="300">Services</h2>
-                <p class="text-4 font-weight-light appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="500">Cras a elit sit amet leo accumsan volutsudisse. </p>
+                <p class="text-4 font-weight-light appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="500">We offer high quality services with honesty, transparency, and integrity, building trust with our stakeholders and upholding our reputation as a reliable partner. </p>
             </div>
         </div>
         <div class="row">
             <div class="col-md-6 mb-5 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="550">
                 <div class="d-flex">
-                    <img class="flex-0-0-auto" width="60" height="60" src="assets/media/construction/icons/faucet.svg" alt="" data-icon data-plugin-options="{'animated': true, 'delay': 300, 'accY': 400, 'strokeBased': true, 'extraClass': 'svg-stroke-color-dark'}" />
+                    <i class="fa-regular fa-handshake fa-4x"></i>
                     <div class="ps-4">
-                        <h3 class="text-color-dark font-weight-bold text-transform-none text-5 mb-2">Plumbing</h3>
-                        <p class="font-weight-light text-3-5 mb-3-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia. </p>
+                        <h3 class="text-color-dark font-weight-bold text-transform-none text-5 mb-2">Scaffold Hire</h3>
+                        <p class="font-weight-light text-3-5 mb-3-5">We offer a comprehensive range of scaffolding products, including standard frames, system scaffolds, accessories, and custom solutions tailored to specific project requirements. </p>
                         <a href="demo-construction-services-detail.html" class="custom-view-more d-inline-flex font-weight-medium text-color-primary text-decoration-none">
                             View More
                             <img width="27" height="27" src="assets/media/construction/icons/arrow-right.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary ms-2'}" />
@@ -114,10 +114,10 @@
                 <div class="d-flex">
                     <img class="flex-0-0-auto" width="70" height="70" src="assets/media/construction/icons/winch.svg" alt="" data-icon data-plugin-options="{'animated': true, 'delay': 600, 'accY': 400, 'strokeBased': true, 'extraClass': 'svg-stroke-color-dark'}" />
                     <div class="ps-3">
-                        <h3 class="text-color-dark font-weight-bold text-transform-none text-5 mb-2">General Construction</h3>
-                        <p class="font-weight-light text-3-5 mb-3-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia. </p>
+                        <h3 class="text-color-dark font-weight-bold text-transform-none text-5 mb-2">Consult</h3>
+                        <p class="font-weight-light text-3-5 mb-3-5">We offer consultation services for your project. We are the preferebla adviser in needs and procurement of all material for your project. </p>
                         <a href="demo-construction-services-detail.html" class="custom-view-more d-inline-flex font-weight-medium text-color-primary text-decoration-none">
-                            View More
+                            Contact us
                             <img width="27" height="27" src="assets/media/construction/icons/arrow-right.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary ms-2'}" />
                         </a>
                     </div>
@@ -127,8 +127,8 @@
                 <div class="d-flex">
                     <img class="flex-0-0-auto" width="60" height="60" src="assets/media/construction/icons/paint-brush.svg" alt="" data-icon data-plugin-options="{'animated': true, 'delay': 900, 'strokeBased': true, 'extraClass': 'svg-stroke-color-dark'}" />
                     <div class="ps-4">
-                        <h3 class="text-color-dark font-weight-bold text-transform-none text-5 mb-2">Painting</h3>
-                        <p class="font-weight-light text-3-5 mb-3-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia. </p>
+                        <h3 class="text-color-dark font-weight-bold text-transform-none text-5 mb-2">Sell</h3>
+                        <p class="font-weight-light text-3-5 mb-3-5">We supply new and second-hand formwork and scaffolding material. We can supply almost everything on the construction. Contact us to find out more. </p>
                         <a href="demo-construction-services-detail.html" class="custom-view-more d-inline-flex font-weight-medium text-color-primary text-decoration-none">
                             View More
                             <img width="27" height="27" src="assets/media/construction/icons/arrow-right.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary ms-2'}" />
@@ -140,8 +140,8 @@
                 <div class="d-flex">
                     <img class="flex-0-0-auto" width="60" height="60" src="assets/media/construction/icons/pushcart.svg" alt="" data-icon data-plugin-options="{'animated': true, 'delay': 1200, 'strokeBased': true, 'extraClass': 'svg-stroke-color-dark'}" />
                     <div class="ps-4">
-                        <h3 class="text-color-dark font-weight-bold text-transform-none text-5 mb-2">Pre-Construction</h3>
-                        <p class="font-weight-light text-3-5 mb-3-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia. </p>
+                        <h3 class="text-color-dark font-weight-bold text-transform-none text-5 mb-2">Construction</h3>
+                        <p class="font-weight-light text-3-5 mb-3-5">Our team of experienced engineers and technicians provides expert guidance, project planning, and installation services to ensure optimal scaffolding solutions for every project.  </p>
                         <a href="demo-construction-services-detail.html" class="custom-view-more d-inline-flex font-weight-medium text-color-primary text-decoration-none">
                             View More
                             <img width="27" height="27" src="assets/media/construction/icons/arrow-right.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary ms-2'}" />
@@ -167,7 +167,7 @@
     <div class="row">
         <div class="col">
             <h2 class="text-color-dark font-weight-bold text-7 line-height-1 mb-3-5">Projects</h2>
-            <p class="text-4 font-weight-light">Cras a elit sit amet leo accumsan volutsudisse. </p>
+            <p class="text-4 font-weight-light">Below are some of our successful projects. </p>
         </div>
     </div>
     <div class="row">
@@ -265,7 +265,7 @@
     </div>
     <div class="row">
         <div class="col-md-8 col-lg-6">
-            <p class="text-3-5 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="600">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur felis <span class="highlight highlight-primary highlight-bg-opacity highlight-animated" data-appear-animation="highlight-animated-start" data-appear-animation-delay="1100" data-plugin-options="{'flagClassOnly': true}">ultrices non hendrerit</span> vehicula leo, vel efficitur felis ultrices non.</p>
+            <p class="text-3-5 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="600">Our scaffolding products are manufactured using high-quality materials and craftsmanship, <span class="highlight highlight-primary highlight-bg-opacity highlight-animated" data-appear-animation="highlight-animated-start" data-appear-animation-delay="1100" data-plugin-options="{'flagClassOnly': true}">ensuring durability, stability, </span> and reliability in every application.</p>
             <a href="demo-construction-projects.html" class="custom-view-more d-inline-flex align-items-center btn btn-primary font-weight-semibold rounded-0 text-3-5 btn-px-4 btn-py-2 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="800">
                 View Projects
                 <img width="27" height="27" src="assets/media/construction/icons/arrow-right.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-light ms-2'}" />

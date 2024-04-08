@@ -4,12 +4,17 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class WhoController extends Controller
+class MasterController extends Controller
 {
     /**
      * Display a listing of the resource.
      */
-    public function view()
+    public function WhoWeAre()
+    {
+        return view('who-we-are');
+    }
+
+    public function Projects()
     {
         return view('who-we-are');
     }

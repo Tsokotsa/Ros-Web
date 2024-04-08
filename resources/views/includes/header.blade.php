@@ -19,12 +19,12 @@
                                 <nav class="collapse px-3-5">
                                     <ul class="nav nav-pills" id="mainNav">
                                         <li>
-                                            <a class="nav-link active" href="demo-construction.html">
+                                            <a class="nav-link active" href="/">
                                                 Home
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="nav-link" href="demo-construction-company.html">
+                                            <a class="nav-link" href="{{ route('whoweare') }}">
                                                 Company
                                             </a>
                                         </li>
@@ -40,7 +40,7 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <a class="nav-link" href="demo-construction-projects.html">
+                                            <a class="nav-link" href="{{ route('projects') }}">
                                                 Projects
                                             </a>
                                         </li>
@@ -50,7 +50,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="nav-link" href="demo-construction-contact.html">
+                                            <a class="nav-link" href="/contact">
                                                 Contact
                                             </a>
                                         </li>
