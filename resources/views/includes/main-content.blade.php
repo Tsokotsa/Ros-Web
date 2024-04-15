@@ -4,7 +4,7 @@
                         
             <!-- Carousel Slide 1 -->
             <div class="owl-item position-relative">
-                <div class="background-image-wrapper position-absolute top-0 left-0 right-0 bottom-0" data-appear-animation="kenBurnsToRight" data-appear-animation-duration="30s" data-plugin-options="{'minWindowWidth': 0}" data-carousel-onchange-show style="background-image: url(assets/media/construction/slides/slide-1.jpg); background-size: cover; background-position: center;"></div>
+                <div class="background-image-wrapper position-absolute top-0 left-0 right-0 bottom-0" data-appear-animation="kenBurnsToRight" data-appear-animation-duration="30s" data-plugin-options="{'minWindowWidth': 0}" data-carousel-onchange-show style="background-image: url(assets/media/img/const3.jpeg); background-size: cover; background-position: center;"></div>
                 <div class="container position-relative z-index-1 h-100">
                     <div class="row align-items-center h-100">
                         <div class="col-lg-9 col-xl-8 position-relative mx-auto mt-5 pt-5">
@@ -23,7 +23,7 @@
                         <img src="{{ url('assets/media/construction/slides/desta2.png') }}" class="img-fluid mw-100 w-auto appear-animation" alt="Engineer Image" data-appear-animation="fadeIn" data-appear-animation-delay="100" />
                     </div>
                     <p class="position-absolute bottom-15 right-0 text-color-light font-weight-bold text-5-5 line-height-3 text-end pb-0 pb-lg-5 mb-0 d-none d-sm-block">
-                        <span class="d-block position-relative z-index-1 pb-5 ps-lg-3 mb-5-5 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="1900">#1 Fastest-Growing Company</span>
+                        <span class="d-block position-relative z-index-1 pb-5 ps-lg-3 mb-5-5 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="1900">We Make it Possible</span>
                         <span class="custom-svg-position-1">
                             <svg class="svg-fill-color-primary mt-1 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="1200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 859.45 88.44" xml:space="preserve" preserveAspectRatio="none">
                                 <polyline points="7.27,84.78 855.17,84.78 855.17,4.79 84.74,4.79 "/>
@@ -34,7 +34,7 @@
             </div>
 
             <!-- Carousel Slide 2 -->
-            <div class="owl-item position-relative" style="background-image: url(assets/media/construction/slides/slide-2.jpg); background-size: cover; background-position: center;">
+            <div class="owl-item position-relative" style="background-image: url(assets/media/img/const7.jpeg); background-size: cover; background-position: center;">
                 <div class="container position-relative z-index-1 h-100">
                     <div class="row align-items-center h-100 pt-5">
                         <div class="col-xl-8 position-relative ms-auto mt-5 pt-5">
@@ -48,7 +48,7 @@
                         </div>
                     </div>
                     <p class="position-absolute bottom-15 right-0 text-color-light font-weight-bold text-5-5 line-height-3 text-end pb-0 pb-lg-5 mb-0 d-none d-sm-block">
-                        <span class="d-block line-height-1 position-relative z-index-1 pb-5 ps-lg-3 mb-5-5 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="2200">Modern Building Design</span>
+                        <span class="d-block line-height-1 position-relative z-index-1 pb-5 ps-lg-3 mb-5-5 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="2200">Yes It is Possible!</span>
                         <span class="custom-svg-position-1">
                             <svg class="svg-fill-color-dark appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 859.45 88.44" xml:space="preserve" preserveAspectRatio="none">
                                 <polyline points="7.27,84.78 855.17,84.78 855.17,4.79 84.74,4.79 "/>
@@ -208,51 +208,51 @@
                 <div class="diamonds-wrapper">
                     <ul class="diamonds mb-0">
                         <li>
-                            <a href="assets/media/construction/generic/generic-1-medium.jpg" class="diamond lightbox" data-plugin-options="{'type':'image'}">
+                            <a href="assets/media/img/random-projects/lg-proj1.jpeg" class="diamond lightbox" data-plugin-options="{'type':'image'}">
                                 <div class="content">
-                                    <img src="assets/media/construction/generic/generic-1.jpg" class="img-fluid plugin-random-images" alt="" data-plugin-random-images data-plugin-options="{'minWindowWidth': 1200, 'random': false, 'delay': 4000, 'imagesListURL': ['assets/media/construction/generic/generic-4.jpg', 'assets/media/construction/generic/generic-3.jpg'], 'lightboxImagesListURL': ['assets/media/construction/generic/generic-9-medium.jpg', 'assets/media/construction/generic/generic-3-medium.jpg', 'assets/media/construction/generic/generic-1-medium.jpg'], 'animateIn': 'blurIn', 'accY': -400}" />
+                                    <img src="assets/media/img/random-projects/md-proj1.jpeg" class="img-fluid plugin-random-images" alt="" data-plugin-random-images data-plugin-options="{'minWindowWidth': 1200, 'random': false, 'delay': 4000, 'imagesListURL': ['assets/media/img/random-projects/md-proj6.jpeg', 'assets/media/img/random-projects/md-proj3.jpeg'], 'lightboxImagesListURL': ['assets/media/img/random-projects/lg-proj6.jpeg', 'assets/media/img/random-projects/lg-proj11.jpeg', 'assets/media/img/random-projects/lg-proj1.jpeg'], 'animateIn': 'blurIn', 'accY': -400}" />
                                 </div>
                             </a>
                         </li>
                         <li>
-                            <a href="assets/media/construction/generic/generic-2-big.jpg" class="diamond lightbox" data-plugin-options="{'type':'image'}">
+                            <a href="assets/media/img/random-projects/lg-proj14.jpeg" class="diamond lightbox" data-plugin-options="{'type':'image'}">
                                 <div class="content">
-                                    <img src="assets/media/construction/generic/generic-2.jpg" class="img-fluid plugin-random-images" alt="" data-plugin-random-images data-plugin-options="{'minWindowWidth': 1200, 'random': false, 'delay': 4200, 'imagesListURL': ['assets/media/construction/generic/generic-3.jpg', 'assets/media/construction/generic/generic-4.jpg'], 'lightboxImagesListURL': ['assets/media/construction/generic/generic-3-medium.jpg', 'assets/media/construction/generic/generic-9-medium.jpg', 'assets/media/construction/generic/generic-2-big.jpg'], 'animateIn': 'blurIn', 'accY': -400}" />
+                                    <img src="assets/media/img/random-projects/md-proj14.jpeg" class="img-fluid plugin-random-images" alt="" data-plugin-random-images data-plugin-options="{'minWindowWidth': 1200, 'random': false, 'delay': 4200, 'imagesListURL': ['assets/media/img/random-projects/md-proj10.jpeg', 'assets/media/img/random-projects/md-proj12.jpeg'], 'lightboxImagesListURL': ['assets/media/img/random-projects/lg-proj10.jpeg', 'assets/media/img/random-projects/lg-proj12.jpeg', 'assets/media/img/random-projects/lg-proj14.jpeg'], 'animateIn': 'blurIn', 'accY': -400}" />
                                 </div>
                             </a>
                         </li>
                         <li>
-                            <a href="assets/media/construction/generic/generic-9-medium.jpg" class="diamond lightbox" data-plugin-options="{'type':'image'}">
+                            <a href="assets/media/img/random-projects/lg-proj8.jpeg" class="diamond lightbox" data-plugin-options="{'type':'image'}">
                                 <div class="content">
-                                    <img src="assets/media/construction/generic/generic-4.jpg" class="img-fluid plugin-random-images" alt="" data-plugin-random-images data-plugin-options="{'minWindowWidth': 1200, 'random': false, 'delay': 4400, 'imagesListURL': ['assets/media/construction/generic/generic-1.jpg', 'assets/media/construction/generic/generic-2.jpg'], 'lightboxImagesListURL': ['assets/media/construction/generic/generic-1-medium.jpg', 'assets/media/construction/generic/generic-2-medium.jpg', 'assets/media/construction/generic/generic-9-medium.jpg'], 'animateIn': 'blurIn', 'accY': -400}" />
+                                    <img src="assets/media/img/random-projects/md-proj8.jpeg" class="img-fluid plugin-random-images" alt="" data-plugin-random-images data-plugin-options="{'minWindowWidth': 1200, 'random': false, 'delay': 4400, 'imagesListURL': ['assets/media/img/random-projects/md-proj13.jpeg', 'assets/media/img/random-projects/md-proj15.jpeg'], 'lightboxImagesListURL': ['assets/media/img/random-projects/lg-proj13.jpeg', 'assets/media/img/random-projects/lg-proj15.jpeg', 'assets/media/img/random-projects/lg-proj8.jpeg'], 'animateIn': 'blurIn', 'accY': -400}" />
                                 </div>
                             </a>
                         </li>
                         <li>
-                            <a href="assets/media/construction/generic/generic-5-wide.jpg" class="diamond diamond-sm lightbox" data-plugin-options="{'type':'image'}">
+                            <a href="assets/media/img/random-projects/lg-proj20.jpeg" class="diamond diamond-sm lightbox" data-plugin-options="{'type':'image'}">
                                 <div class="content">
-                                    <img src="assets/media/construction/generic/generic-5-small.jpg" class="img-fluid plugin-random-images" alt="" data-plugin-random-images data-plugin-options="{'minWindowWidth': 1200, 'random': false, 'delay': 4600, 'imagesListURL': ['assets/media/construction/generic/generic-6-small.jpg', 'assets/media/construction/generic/generic-10-small-diamond.jpg'], 'lightboxImagesListURL': ['assets/media/construction/generic/generic-6-medium.jpg', 'assets/media/construction/generic/generic-10-medium.jpg', 'assets/media/construction/generic/generic-5-wide.jpg'], 'animateIn': 'blurIn', 'accY': -400}" />
+                                    <img src="assets/media/img/random-projects/md-proj20.jpeg" class="img-fluid plugin-random-images" alt="" data-plugin-random-images data-plugin-options="{'minWindowWidth': 1200, 'random': false, 'delay': 4600, 'imagesListURL': ['assets/media/img/random-projects/md-proj16.jpeg', 'assets/media/img/random-projects/md-proj8.jpeg'], 'lightboxImagesListURL': ['assets/media/img/random-projects/lg-proj16.jpeg', 'assets/media/img/random-projects/lg-proj8.jpeg', 'assets/media/img/random-projects/lg-proj20.jpeg'], 'animateIn': 'blurIn', 'accY': -400}" />
                                 </div>
                             </a>
                         </li>
                         <li>
-                            <a href="assets/media/construction/generic/generic-3-medium.jpg" class="diamond lightbox" data-plugin-options="{'type':'image'}">
+                            <a href="assets/media/img/random-projects/lg-proj9.jpeg" class="diamond lightbox" data-plugin-options="{'type':'image'}">
                                 <div class="content">
-                                    <img src="assets/media/construction/generic/generic-3.jpg" class="img-fluid plugin-random-images" alt="" data-plugin-random-images data-plugin-options="{'minWindowWidth': 1200, 'random': false, 'delay': 4800, 'imagesListURL': ['assets/media/construction/generic/generic-2.jpg', 'assets/media/construction/generic/generic-1.jpg'], 'lightboxImagesListURL': ['assets/media/construction/generic/generic-2-big.jpg', 'assets/media/construction/generic/generic-1-medium.jpg', 'assets/media/construction/generic/generic-3-medium.jpg'], 'animateIn': 'blurIn', 'accY': -100}" />
+                                    <img src="assets/media/img/random-projects/md-proj9.jpeg" class="img-fluid plugin-random-images" alt="" data-plugin-random-images data-plugin-options="{'minWindowWidth': 1200, 'random': false, 'delay': 4800, 'imagesListURL': ['assets/media/img/random-projects/md-proj21.jpeg', 'assets/media/img/random-projects/md-proj22.jpeg'], 'lightboxImagesListURL': ['assets/media/img/random-projects/lg-proj21.jpeg', 'assets/media/img/random-projects/lg-proj22.jpeg', 'assets/media/img/random-projects/lg-proj9.jpeg'], 'animateIn': 'blurIn', 'accY': -100}" />
                                 </div>
                             </a>
                         </li>
                         <li>
-                            <a href="assets/media/construction/generic/generic-6-medium.jpg" class="diamond diamond-sm lightbox" data-plugin-options="{'type':'image'}">
+                            <a href="assets/media/img/random-projects/lg-proj24.jpeg" class="diamond diamond-sm lightbox" data-plugin-options="{'type':'image'}">
                                 <div class="content">
-                                    <img src="assets/media/construction/generic/generic-6-small.jpg" class="img-fluid plugin-random-images" alt="" data-plugin-random-images data-plugin-options="{'minWindowWidth': 1200, 'random': false, 'delay': 5000, 'imagesListURL': ['assets/media/construction/generic/generic-5-small.jpg', 'assets/media/construction/generic/generic-7-small.jpg'], 'lightboxImagesListURL': ['assets/media/construction/generic/generic-5-wide.jpg', 'assets/media/construction/generic/generic-10-medium.jpg', 'assets/media/construction/generic/generic-6-medium.jpg'], 'animateIn': 'blurIn', 'accY': -100}" />
+                                    <img src="assets/media/img/random-projects/md-proj24.jpeg" class="img-fluid plugin-random-images" alt="" data-plugin-random-images data-plugin-options="{'minWindowWidth': 1200, 'random': false, 'delay': 5000, 'imagesListURL': ['assets/media/img/random-projects/md-proj6.jpeg', 'assets/media/img/random-projects/md-proj13.jpeg'], 'lightboxImagesListURL': ['assets/media/img/random-projects/lg-proj6.jpeg', 'assets/media/img/random-projects/lg-proj13.jpeg', 'assets/media/img/random-projects/lg-proj24.jpeg'], 'animateIn': 'blurIn', 'accY': -100}" />
                                 </div>
                             </a>
                         </li>
                         <li>
-                            <a href="assets/media/construction/generic/generic-10-medium.jpg" class="diamond diamond-sm lightbox" data-plugin-options="{'type':'image'}">
+                            <a href="assets/media/img/random-projects/lg-proj10.jpeg" class="diamond diamond-sm lightbox" data-plugin-options="{'type':'image'}">
                                 <div class="content">
-                                    <img src="assets/media/construction/generic/generic-7-small.jpg" class="img-fluid plugin-random-images" alt="" data-plugin-random-images data-plugin-options="{'minWindowWidth': 1200, 'random': false, 'delay': 5200, 'imagesListURL': ['assets/media/construction/generic/generic-10-small-diamond.jpg', 'assets/media/construction/generic/generic-6-small.jpg'], 'lightboxImagesListURL': ['assets/media/construction/generic/generic-10-medium.jpg', 'assets/media/construction/generic/generic-6-medium.jpg', 'assets/media/construction/generic/generic-10-medium.jpg'], 'animateIn': 'blurIn', 'accY': -100}" />
+                                    <img src="assets/media/img/random-projects/md-proj10.jpeg" class="img-fluid plugin-random-images" alt="" data-plugin-random-images data-plugin-options="{'minWindowWidth': 1200, 'random': false, 'delay': 5200, 'imagesListURL': ['assets/media/img/random-projects/md-proj16.jpeg', 'assets/media/img/random-projects/md-proj20.jpeg'], 'lightboxImagesListURL': ['assets/media/img/random-projects/lg-proj16.jpeg', 'assets/media/img/random-projects/lg-proj20.jpeg', 'assets/media/img/random-projects/lg-proj10.jpeg'], 'animateIn': 'blurIn', 'accY': -100}" />
                                 </div>
                             </a>
                         </li>
@@ -266,7 +266,7 @@
     <div class="row">
         <div class="col-md-8 col-lg-6">
             <p class="text-3-5 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="600">Our scaffolding products are manufactured using high-quality materials and craftsmanship, <span class="highlight highlight-primary highlight-bg-opacity highlight-animated" data-appear-animation="highlight-animated-start" data-appear-animation-delay="1100" data-plugin-options="{'flagClassOnly': true}">ensuring durability, stability, </span> and reliability in every application.</p>
-            <a href="demo-construction-projects.html" class="custom-view-more d-inline-flex align-items-center btn btn-primary font-weight-semibold rounded-0 text-3-5 btn-px-4 btn-py-2 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="800">
+            <a href="{{ route('projects') }}" class="custom-view-more d-inline-flex align-items-center btn btn-primary font-weight-semibold rounded-0 text-3-5 btn-px-4 btn-py-2 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="800">
                 View Projects
                 <img width="27" height="27" src="assets/media/construction/icons/arrow-right.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-light ms-2'}" />
             </a>
@@ -274,20 +274,20 @@
     </div>
 </div>
 
-<section class="section parallax border-0 pt-5 py-0 m-0" data-plugin-parallax data-plugin-options="{'spped': '1.5', 'parallaxHeight': '125%', 'fadeIn': true}" data-image-src="assets/media/construction/backgrounds/background-1.jpg">
+<section class="section parallax border-0 pt-5 py-0 m-0" data-plugin-parallax data-plugin-options="{'spped': '1.5', 'parallaxHeight': '125%', 'fadeIn': true}" data-image-src="/Users/steliotimane/Downloads/const7.jpeg /Users/steliotimane/Downloads/const8.jpeg">
     <div class="container">
         <div class="row gy-5">
             <div class="col-lg-6 text-center order-2 order-lg-1">
-                <img src="assets/media/construction/authors/author-1-big.png" class="img-fluid" alt="Woman testimonial from Porto Magazine company" />
+                <img src="assets/media/construction/authors/author-1-big.png" class="img-fluid" alt="Client testimonial" />
             </div>
             <div class="col-lg-6 align-self-center pb-lg-5 order-1 order-lg-2 ps-5 ps-lg-0">
                 <div class="testimonial testimonial-style-2 testimonial-with-quotes testimonial-remove-right-quote testimonial-quotes-dark custom-testimonial-quote-position-1 mb-0">
                     <blockquote>
-                        <p class="alternative-font-4 font-weight-medium text-start text-4 px-2 mb-0" data-plugin-animated-letters data-plugin-options="{'startDelay': 1000, 'minWindowWidth': 0, 'animationName': 'typeWriter', 'animationSpeed': 25}">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendreriast ehicula leo, vel efficitur felis ultrices non cras a elit sit amet leo acun volutpat. Suspendisse hendrerit vehicula leo, vel efficitur fel.</p>
+                        <p class="alternative-font-4 font-weight-medium text-start text-4 px-2 mb-0" data-plugin-animated-letters data-plugin-options="{'startDelay': 1000, 'minWindowWidth': 0, 'animationName': 'typeWriter', 'animationSpeed': 25}">Working with this company was an amazing and unique experience. Very diligent team with attention to details. They were always available to assist.</p>
                     </blockquote>
                     <div class="testimonial-author text-start ps-3 ms-1">
-                        <strong class="text-4-5 negative-ls-1">Anne Doe Smith</strong>
-                        <p class="text-color-default text-start mb-0">Porto Magazine</p>
+                        <strong class="text-4-5 negative-ls-1">Nilsa Timane</strong>
+                        <p class="text-color-default text-start mb-0">Mapulene</p>
                     </div>
                 </div>
             </div>
@@ -346,7 +346,7 @@
                                 </span>
                             </span>
                         </div>
-                        <img src="assets/media/construction/blog/blog-thumb-1.jpg" class="img-fluid" alt="Lorem Ipsum Dolor" />
+                        <img src="assets/media/img/random-projects/md-blog1.jpeg" class="img-fluid" alt="Obra" />
                     </div>
                     <div class="card-body py-4 px-0">
                         <span class="d-block text-color-grey font-weight-semibold positive-ls-2 text-2">BY ADMIN</span>
@@ -372,7 +372,7 @@
                                 </span>
                             </span>
                         </div>
-                        <img src="assets/media/construction/blog/blog-thumb-2.jpg" class="img-fluid" alt="Lorem Ipsum Dolor" />
+                        <img src="assets/media/img/random-projects/md-blog2.jpeg" class="img-fluid" alt="Lorem Ipsum Dolor" />
                     </div>
                     <div class="card-body py-4 px-0">
                         <span class="d-block text-color-grey font-weight-semibold positive-ls-2 text-2">BY ADMIN</span>
@@ -398,7 +398,7 @@
                                 </span>
                             </span>
                         </div>
-                        <img src="assets/media/construction/blog/blog-thumb-3.jpg" class="img-fluid" alt="Lorem Ipsum Dolor" />
+                        <img src="assets/media/img/random-projects/md-blog3.jpeg" class="img-fluid" alt="Lorem Ipsum Dolor" />
                     </div>
                     <div class="card-body py-4 px-0">
                         <span class="d-block text-color-grey font-weight-semibold positive-ls-2 text-2">BY ADMIN</span>

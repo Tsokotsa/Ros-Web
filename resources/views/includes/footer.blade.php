@@ -10,32 +10,32 @@
                 <h4 class="text-color-dark font-weight-bold mb-4-5">Navigation</h4>
                 <ul class="list list-unstyled columns-lg-2">
                     <li>
-                        <a href="demo-construction.html" class="text-color-hover-primary">
+                        <a href="/" class="text-color-hover-primary">
                             Home
                         </a>
                     </li>
                     <li>
-                        <a href="demo-construction-company.html" class="text-color-hover-primary">
+                        <a href="/about" class="text-color-hover-primary">
                             Company
                         </a>
                     </li>
                     <li>
-                        <a href="demo-construction-services.html" class="text-color-hover-primary">
+                        <a href="/services" class="text-color-hover-primary">
                             Services
                         </a>
                     </li>
                     <li>
-                        <a href="demo-construction-projects.html" class="text-color-hover-primary">
+                        <a href="/projects" class="text-color-hover-primary">
                             Projects
                         </a>
                     </li>
                     <li>
-                        <a href="demo-construction-blog.html" class="text-color-hover-primary">
+                        <a href="/blog" class="text-color-hover-primary">
                             Blog
                         </a>
                     </li>
                     <li>
-                        <a href="demo-construction-contact.html" class="text-color-hover-primary">
+                        <a href="/contact" class="text-color-hover-primary">
                             Contact
                         </a>
                     </li>
