@@ -29,7 +29,7 @@
                                             </a>
                                         </li>
                                         <li class="dropdown">
-                                            <a class="nav-link dropdown-toggle" href="demo-construction-services.html">
+                                            <a class="nav-link dropdown-toggle" href="/services">
                                                 Services
                                             </a>
                                             <ul class="dropdown-menu">
@@ -45,7 +45,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="nav-link" href="demo-construction-blog.html">
+                                            <a class="nav-link" href="/blog">
                                                 Blog
                                             </a>
                                         </li>

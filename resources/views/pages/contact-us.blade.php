@@ -52,7 +52,8 @@
 						<div class="col-lg-6 mb-4 mb-lg-0 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="1400">
 							<h2 class="font-weight-bold text-color-dark text-6 mb-0">Send Us a Message</h2>
 							<p class="text-3-5 font-weight-light mb-5-5">Send us a message and we will call you back!</p>
-							<form class="contact-form form-style-3" action="php/contact-form.php" method="POST">
+							<form id="contact-form" class="contact-formaa form-style-3" action="contact-form" method="POST">
+								@csrf
 								<div class="contact-form-success alert alert-success d-none mt-4">
 									<strong>Success!</strong> Your message has been sent to us.
 								</div>
@@ -64,22 +65,22 @@
 
 								<div class="row">
 									<div class="form-group col mb-3-5">
-										<input type="text" value="" data-msg-required="Please enter your name." maxlength="100" class="form-control text-3 h-auto py-3-5" name="name" placeholder="Your Name" required>
+										<input type="text" value="" data-msg-required="Please enter your name." maxlength="100" class="form-control text-3 h-auto py-3-5" name="name" placeholder="Your Name">
 									</div>
 								</div>
 								<div class="row">
 									<div class="form-group col mb-3-5">
-										<input type="email" value="" data-msg-required="Please enter your email address." data-msg-email="Please enter a valid email address." maxlength="100" class="form-control text-3 h-auto py-3-5" name="email" placeholder="Your E-mail Address" required>
+										<input type="email" value="" data-msg-required="Please enter your email address." data-msg-email="Please enter a valid email address." maxlength="100" class="form-control text-3 h-auto py-3-5" name="email" placeholder="Your E-mail Address">
 									</div>
 								</div>
 								<div class="row">
 									<div class="form-group col mb-3-5">
-										<input type="text" value="" data-msg-required="Please enter the subject." maxlength="100" class="form-control text-3 h-auto py-3-5" name="subject" placeholder="Subject" required>
+										<input type="text" value="" data-msg-required="Please enter the subject." maxlength="100" class="form-control text-3 h-auto py-3-5" name="subject" placeholder="Subject">
 									</div>
 								</div>
 								<div class="row">
 									<div class="form-group col mb-3-5">
-										<textarea maxlength="5000" data-msg-required="Please enter your message." rows="8" class="form-control text-3 h-auto py-3-5" name="message" placeholder="Message" required></textarea>
+										<textarea maxlength="5000" data-msg-required="Please enter your message." rows="8" class="form-control text-3 h-auto py-3-5" name="message" placeholder="Message"></textarea>
 									</div>
 								</div>
 								<div class="row">

@@ -15,7 +15,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="/about" class="text-color-hover-primary">
+                        <a href="{{ route('whoweare') }}" class="text-color-hover-primary">
                             Company
                         </a>
                     </li>
@@ -48,10 +48,11 @@
                         <strong>Success!</strong> You've been added to our email list.
                     </div>
                     <div class="alert alert-danger d-none" id="newsletterError"></div>
-                    <form id="newsletterForm" action="php/newsletter-subscribe.php" method="POST" class="mb-4-5">
+                    <form id="newsForm" action="/news" method="POST" class="mb-4-5">
+                        @csrf
                         <div class="input-group">
                             <input class="form-control border-0" placeholder="Email Address..." name="newsletterEmail" id="newsletterEmail" type="email">
-                            <button class="btn btn-primary px-3" type="submit">
+                            <button class="btn btn-primary px-3" id="submit-news">
                                 <img width="27" height="27" src="assets/media/construction/icons/arrow-right.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-light'}" style="width: 27px;" />
                             </button>
                         </div>
